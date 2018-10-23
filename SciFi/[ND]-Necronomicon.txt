@@ -69,6 +69,41 @@ Ilość gości tej profesji była ściśle określona przepisami państwowymi. A
 - Znaczyło by.
 - I co? Jak już walniesz w kalendarz to ktoś może przejrzeć ostatnie kilka sekund, a całej reszty nie?
 - Jak masz wyższy poziom dostępu to pewnie możesz zobaczyć całość.
-- Pewnie dlatego jak kropnęli ostatnio sekretarza powiatu to biuro ochrony rządu wzięło jakiegoś podrzędnego nekromantę i poprosiło o kilka ostatnich sekund życia denata... Zamiast przegrzebać cały dostępny materiał.
+- Pewnie dlatego jak kropnęli ostatnio podsekretarza to biuro ochrony rządu wzięło jakiegoś podrzędnego nekromantę i poprosiło o kilka ostatnich sekund życia denata... Zamiast przegrzebać cały dostępny materiał.
 - Nie upublicznili wszystkiego, żadna nowość. - Odparł znudzony.
-- Nic z tych rzeczy Jack. Nie pokazli bo nie mają do tego dostępu. Po prostu nikt nie zapisuje wszyskich myśli każdego. Nie mamy do tego potrzebnej infrastruktury.
+- Nic z tych rzeczy Jack. Nie pokazli, bo nie mają. Na ten moment nie potrafimy zapisać wspomnień z całego życia każdej osoby. Brak do tego potrzebnej infrastruktury.
+- No dobra. - Westchnął detektyw. - Do rzeczy, miło się rozmawia i w ogóle, ale śpieszę się do psa.
+- W skrócie: Gdy ktoś umiera, lub uważa że jest w stanie zagrożenia życia jego implant łączy się z najbliższymi punktami dostępowymi, lub magazynami danych i zrzuca pamięć krótkotrwałą. Przez to część danych można sięgnąć bezpośrednio z sieci, no ale niektóre są zapisywane tylko lokalnie. Dlatego necro musi się pofatygować na miejsce zbrodni, aby ręcznie poszukać w sieciach lokalnych.
+- I jak to się ma do mnie?
+- Możemy ci dać dostęp do tej ukrytej sieci. - Rozmówca oparł się o krzesło zakładając rękę na rękę.
+- Ot tak? Za friko? Co wy jakaś fundacja charytatywna czy jak?
+- Są pewne ryzyka, więc my nie chcemy kasy ty bierzesz na siebie nieprzyjemności, no i wyświadczysz nam małą przysługę. Rzecz jasna.
+Jack trawił nieśpiesznie informacje, haczyka należy się spodziewać jak zawsze. Najważniejsze aby zerwać się z żyłki zanim zacznie robić się nieprzyjemnie, no ale żeby połknąć haczyk przynęta musi być dobra. I tu trzeba im przyznać, że zarzutkę mieli pierwsza klasa. Połowa jego znajomych w fachu dałaby sobie obciąć to i owo aby dostać taką propozycję. I nie chodzi wcale o to że w robocie by się im to przydało... Takie informacje na pewno da się spieniężyć u właściwych osób.
+- Załóżmy... roboczo... - zaczął powoli - że przyjmę propozycję, o jakiej przysłudze mówimy?
+- Sprawa w której składałeś raport, wrócisz do niej i sprawdzisz wspomnienia denatki.
+- I to wszystko? - Coś tu śmierdziało, i to na kilometr.
+- Powiedzmy... - Rozmówca uśmiechnął się. - Trzeba będzie jeszcze jeden raport napisać i się z nim pofatygować do biurowca.
+- A ryzyka?
+- Wszystko masz w lodówce. - Widząc zdziwione spojrzenie Jacka kontynuował. - W twoim domu jest lodówka, a w nim pudełko, a w nim wszystko co powinieneś wiedzieć.
+- Hej, hej... Hola! Jeszcze się na nic nie zgodziłem!
+- Wiem, po prostu przeczytaj co tam jest napisane i wtedy podejmiesz ostateczną decyzję. Właśnie dostałem potwierdzenie że paczkę ci dostarczono.
+- Włamaliście się do mnie do chaty?
+- Nie ująłbym tego w ten sposób, w końcu nic ci nie zginęło. Wręcz można powiedzieć że ci rzeczy przybyło. Na mnie już czas, powodzenia Jack.
+Nieznajomy wstał zapiął kurtkę i spokojnym krokiem skierował się do wyjścia. Jeśli go w coś wrabiają to raczej nie ma co liczyć na świadków, może kelnerka potwierdzi jego zeznania. Może. Zapłacił za posiłek i wyszedł na ulicę. Delikatna mżawka sączyła się z nieba, uroczy wieczór.
+
+* * *
+
+Drzwi były zamknięte, jeśli ktoś u niego był to nie pozostawił po sobie żadnych śladów. Może poza małą paczuszką w lodówce. Pudełko było mniej więcej wielkość paczki na papierosy, w środku znajdował się mały metalowy cylinder długi na kilka centymetrów oraz dokładnie złożona kartka papieru. Na żadnym z przedmiotów nie było żadnych logotypów ani informacji o producencie. Taki produkt można dostać w każdym sklepie z takimi produktami... Rozłożył kartkę i zaczął czytać:
+
+Instrukcja użycia: Przytrzymać cylinder dociskając koniec kciukiem, po dwóch sekundach z przeciwnego końca wysunie się igła. Dozownik działa automatycznie. Po wbiciu igły w ciało, nastąpi wstrzyknięcie środka. Zakończenie procedury potwierdzi pojedynczy dźwięk. W celu ochrony przed uszkodzeniem igła automatycznie chowa się w przypadku puszczenia podstawy cylindra. Dozownik jest jednorazowego użytku.
+
+Interakcje: Brak znanych przeciwskazań i niepożądanych interakcji ze standardowymi wszczepami, wszczepami specjalnymi oraz implantami. Brak przeciwskazań nie dotyczy interfejsów wojskowych powyżej klasy CS-8.
+
+Ryzyka: Dostęp do bazy necro jest monitorowany, w przypadku korzystania z zasobów dostępnych przez ogólną sieć istnieje prawdopodobieństwo namierzenia nieautoryzowanego dostępu. Zaleca się korzystanie tylko z zasobów sieci lokalnych, punktów danych typu offline lub offgrid.
+
+Poziom dostępu: Necro-1 (Basic)
+
+Sposób przechowywania: Preparat ulega zniszczeniu jeśli znajduje się w temperaturze powyżej 15 stopni przez czas dłuższy niż godzina.
+
+
+Jack siadł w salonie rzucając kartkę na stół, trochę skąpe te informacje. No i nie było mowy o wstrzykiwaniu sobie czegokolwiek. Jeśli myślą że tyle go przekona to chyba zgłupieli. Sztuczka z podrzuceniem pakunku zaiste jak w filmie szpiegowskim. Trzeba przyznać że taki manewr bardzo ładnie zamyka  możliwość zadawania niewygodnych pytań. Tylko z drugiej strony posiada teraz dowody, które może użyć przeciw nim... Albo sprzedać... Jeśli jego tajemniczy rozmówca nie kłamał, to za ten cylinderek można zgarnąć małą fortunę. Niestety nabywca mógłby również dorzucić kulkę w łeb, taka transakcja wiązana. Wyjął z pudełka cylinderek i oglądnął go dokładnie. Gdyby nie fakt że wykonany był z  metalu można by powiedzieć że trzyma papierosa. Wymiary były podobne, z jednej strony końcówka długości około centymetra była ciemniejszego koloru. Nic niezwykłego, sądząc po rozmiarze całości igła pewnie była wielka jak w szpitalu. Kolejny powód aby powiedzieć zdecydowane nie! Może jakby jakiś personel medyczny tym operował ale sam sobie takie coś ma zapodać? Gdzie niby? w żyłę czy w mięsień? Aby się upewnić co do podejrzeń chwycił w dłoń cylinder i postanowił odbezpieczyć to narzędzie zbrodni. Zerknął dla pewności jeszcze raz na instrukcję, z jednej strony przykładasz kciuk z drugiej wyskakuje igła. Intuicja podpowiadała że inny kolor na dozownik pewnie oznacza sensor. Przyłożył kciuk, ciekawe czy każdy może go aktywować czy sprawdza linie papilarne? Zgodnie z opisem po dwóch sekundach usłyszał cichy brzęk i wyskoczyła igła, niestety nie z tej strony z której się spodziewał. Była też cienka i krótka, i zgodnie z instrukcją zadziałała automatycznie. Zanim zdążył cofnąć kciuk usłyszał krótkie Biiiip. Nie możliwe, taka pułapka nie mogła być prawdą. Właśnie sobie wstrzyknął chuj wie co, jak ostatni debil. Kurwa! Szpital? Znajomy lekarz? Spokojnie chłopie bez paniki. Wciąż ma dozownik, w nic go nie wrobią.
