@@ -1,0 +1,169 @@
+*"Crunch" by Bartłomiej Żarnowski CC BY-SA*
+
+*Wrocław 2020*
+
+#Crunch
+
+Ishikawa stał z opuszczoną głową słuchając reprymendy szefa. Projekt który nadzorował był spóźniony o dobre pół roku, o budżecie nawet nie warto myśleć. Mimo dołączania kolejnych programistów prace nie przyśpieszały, wręcz miało się wrażenie że im więcej pracowników zaczyna się angażować tym więcej rzeczy zaczyna się psuć. Ta porażka na pewno odbije się na jego karierze. W najlepszym przypadku zostanie przesunięty do innego zadania, w najgorszym zdegradowany. Obie opcje nie wyglądały zbyt optymistycznie, będzie na językach innych kierowników. Z ponurych myśli wyrwało go pytanie.
+- Co masz na swoje usprawiedliwienie?
+- Nic panie Tanaka.
+- Nie możemy pozwolić sobie na dalsze opóźnienia! Ten projekt musi być zakończony do końca tygodnia! W poniedziałek musi wejść do testów produkcyjnych!
+Milczał, nie było nic co mógłby to powiedzieć. Termin był nierealny.
+- Czy się rozumiemy?
+- Z całym szacunkiem... - Zebrał resztki honoru. - To niemożliwe.
+- Mylisz się Ishikawa. - Szef działu rozwoju sięgnął do biurka. - Masz ostatnią szansę. Później do końca życia będziesz siedział na recepcji!
+Odgłos zamykanej szuflady i uderzenie dokumentów o blat biurka skłonił go do uniesienia wzroku. Na blacie przed nim leżała czarna teczka, co ciekawe bez wszechobecnego loga firmy.
+- Masz czas do poniedziałku, wszelakie sprawy które trzeba załatwić, a będą problemy raportujesz bezpośrednio do mnie. Bezzwłocznie!
+- Tak jest. - Ishikawa kłania się. - Dziękuje za szansę. Nie zawiodę tym razem.
+Kłania się ponownie, po czym wychodzi. Za drzwiami nie daje po sobie nic poznać. Przybiera swoją zwyczajną nic nie wyrażającą minę i rusza do swojego biura. Stojąc przy windzie spotyka Sato. Niezbyt go lubi, chociaż nigdy nie mieli żadnych niesnasek między sobą. Po prostu podświadomie czuje do niego niechęć.
+- Ciężki początek dnia?
+- Wolę o tym nie rozmawiać.
+- Rozumiem, ja też miałem dzisiaj wizytę u szefa. Chyba mam jakiś dzień reprymendy.
+Ishikawa zerka na rozmówce, nie wygląda jakby się z niego nabijał.
+- Na to wygląda, jak to wszystko się skończy będę musiał się napić.
+- Nie ty jeden. - Tym razem Sato się uśmiecha.
+* * *
+Piętro na którym mieści się jego biuro wygląda tak samo jak czterdzieści osiem pięter poniżej. Szerokie korytarze w kształcie litery H oplatają dwie sekcje podzielone na kilka dużych sal. Jego biuro znajduje się na końcu prawego korytarza. Po drodze zachodzi do sali gdzie pracują jego programiści. Cztery zespoły po osiem osób, część z nich ma zamknięte oczy, inni pozostają w letargu wpatrzeni w nicość. Zawsze go przerażał ten widok, zupełnie jak stop klatka w filmie. Trzydzieści dwie osoby stłoczone na siedemdziesięciu metrach kwadratowych w klimatyzowanym pomieszczeniu. Poza dwoma stolikami ze szklankami oraz dystrybutorom wody i elektrolitów sala składa się tylko z foteli i terminali przyłączeniowych. Postępy pracy zespołów widać na hologramach zdobiących ściany, osiągnięte cele podświetlone na zielono, liczba błędów i poprawek wije się w postaci wykresów. Kolejne wykresy pokazują pokrycie testami oraz postępy serwerów sprawdzających zgodności. Większość tych słupków i trendów zna na pamięć. W ciągu ostatnich kilkunastu tygodni niewiele się zmieniły. Wychodzi z sali, jeszcze tylko kilka kroków i będzie w zaciszu swojego pokoiku.
+Pijąc kawę wpatrywał się w teczkę leżącą przed nim. Nie ma co dalej zwlekać, odstawił filiżankę i zaczął czytać dokumenty. Nie pamięta kiedy ostatni raz miał w dłoniach taki plik papierów do czytania, zazwyczaj wszystko przesyłało się siecią. Bezpośrednio do implantu. Pierwszy raport zawierał informacje na temat usługi związanej z implementacją różnych projektów informatycznych. Na kolejnych stronach zestawiono działania kilku dużych korporacji, większość z nich była bezpośrednią konkurencją dla jego firmy. Co ciekawe nie były to oficjalne dokumenty publikowane kwartalnie, bardziej wyglądało to na wyciąg z różnych źródeł zestawiony wedle określonego klucza. Ktoś musiał się napracować aby poukładać te puzzle w całość. Liczby określające szacowane wydatki na większości czytający to ludzi wywarły by wrażenie nierealności, jednak dla osób na jego stanowisku były szokujące z innego powodu. Wyglądało jakby ktoś wykonywał robotę o połowę taniej niż specjalistyczne zespoły zatrudniane przez nich. I nie mówimy tutaj o jakiś małych śmiesznych aplikacjach jakich pełno na rynku tylko omawiane projekty to prawdziwe molochy o poziomie komplikacji wykraczający daleko poza możliwości poznawcze przeciętnego zjadacza chleba.
+Przerzucił zapamiętane informacje do roboczej pamięci podręcznej i uruchomił agenta którego zadaniem było wykonanie estymacji kosztów ich projektu z uwzględnieniem poznanych właśnie trendów. Wziął do ręki drugi dokument, dużo krótszy, były nim akta osobowe. Patrzył na zdjęcie jakiegoś ćpuna, właściwie to na serię zdjęć. Pokazujących kolejne fazy degradacji człowieka, wyglądało na to że ktoś zapłacił policji za podzielenie się kartoteką tego indywiduum. Ostatnie osiem lat to ciągłe rozboje, kradzieże i podejrzane działania w sieci. Zapewne człowiek zrobi wszystko aby mieć na kolejną działkę. Kartoteka wykazuje zadziwiającą regularność, praktycznie nie było miesiąca kiedy nie pojawiał się nasz pan w którejś z jednostek policyjnych. Zmiana nastąpiła mniej więcej dwa lata temu. Nagle jest przerwa prawie pół roczna, a później policja odstawia delikwenta po strzelaninie do prywatnego szpitala. Skąd taki śmieć miał pieniądze na taką placówkę pozostaje tajemnicą. Od tego czasu nie pojawia się żadna wzmianka w aktach. Trzeci plik kartek jest uzupełnieniem historii naszego ćpuna. Ishikawa zerka na nagłówek "John Doe" autentyczne potwierdzone imię i nazwisko. Jego sygnatura figuruje w rządowym rejestrze obywateli, jednoznacznie potwierdzając jego tożsamość. Kolejne zdjęcia wykonywane z ukrycia pokazują jegomościa w różnych miejscach, z całą masą różnych osób. Od zwykłym przechodniów po ludzi w garniturach. Sprawa ewidentnie śmierdzi, nic dziwnego że teczka nie ma loga firmy. Czyta przygotowaną na końcu syntezę najważniejszych informacji na temat Johna. Czyżby to miało być to rozwiązanie? W międzyczasie agent kończy analizę, oczekiwany koszt zamknięcia projektu pół miliona. Rząd wielkości mniej niż oczekiwał, nie będzie musiał nawet występować o dodatkowy budżet, jedno zmartwienie mniej. Pozostałe wymagania nie odbiegały zbytnio od standardowego wdrożenia nowych specjalistów do projektu. Pozostało się skontaktować i dogadać warunki współpracy. Właśnie miał skontaktować się z asystentką aby umówiła go na spotkanie, gdy dotarło do niego że to może nie być najlepszy pomysł. Miał wrażenie że im mniej ludzi będzie wiedzieć tym lepiej.
+
+* * *
+
+Restauracja wybiegała tarasem daleko na plażę, niewidoczne pole siłowe chroniło przed porywami wiatru utrzymując przyjemne ciepło. Wzburzone morze pieniło się uderzając o falochrony. Prawie czarna woda mocno kontrastowała z białymi grzywami piany na tle ołowianego nieba. Przytłumiony huk żywiołów komponował się ze spokojną muzyką. Na tarasie zajęte było może jeszcze ze dwa stoliki poza tym panowała pustka. Nie dziwił się zbytnio innym, gdyby nie praca też by się tutaj nie pojawił w taką pogodę. Zamówił zupę z owoców morza i zieloną herbatę.
+John pojawił się punktualnie, jego zniszczona nałogami twarz kontrastowała mocno z garniturem. Patrząc na niego ciężko było wywnioskować kima tak naprawdę był, akta również nie zdradzały tej tajemnicy. Postronny obserwator zapewne uznałby że to jakiś członek yakuzy.
+- Dzień dobry panie Ishikawa.
+- Dzień dobry panie Doe.
+Ukłonili się sobie, po czym zajęli miejsca naprzeciw. Widok nieznajomego na tle wzburzonego morza pogłębiał konsternacje kierownika. Zamówili posiłek po czym przystąpili do negocjacji.
+- Rozumiem że pana firma ma dla mnie zlecenie?
+- Być może, moim zadaniem jest właśnie ustalenie tego.
+- Czego dokładnie miałaby dotyczyć ewentualna współpraca?
+- Dokończania specjalistycznego oprogramowania.
+- Czy cała funkcjonalność jest gotowa i trzeba kod ustabilizować czy dopisać też brakujące części?
+- Ustabilizować.
+- Na kiedy musi być zrobione?
+- Na ten poniedziałek.
+- No cóż, widzę że pańska firma lubuje się w stawianiu wszystkiego na ostrzu noża.
+- Powiedzmy że mamy dużo wspólnego z samurajami.
+- Proszę dać mi się zastanowić, zjedzmy zanim wystygnie nam jedzenie do końca.
+Gdy zniknęły dania główne pojawiły się desery. Tureckie ciasteczka, Ishikawa pierwszy raz w życiu je próbował. Uderzenie cukru przyprawiło jego organizm o dreszcze, nie sądził że coś może być aż tak słodkie. Na szczęście było czym to popić aby nie dostać szoku insulinowego. Gdy nastawił się na pożegnanie, rozmówca niespodziewanie zaproponował jeszcze kawę. Zgodził się trochę zdziwiony tą nagłą prośbą.
+- Oszacowałem co będzie potrzebne i ile będzie to kosztować. Mogę się podjąć zlecenia. - Rozpoczął John delektując się aromatem napoju.
+- Myślałem że potrzebuje pan czasu aby się zastanowić... Jakie są szanse że zdążymy na czas?
+- Tak też zrobiłem. Co pan ma na myśli pytając czy zdążymy?
+- Sądzi pan że to wykonalne? Na ile kompromisów trzeba będzie pójść aby domknąć projekt?
+- Na żadne. Wszystko co będzie zlecone zostanie wykonane. Na poniedziałek do południa.
+- Nawet nie wie pan jaki jest dokładny stan prac...
+- Mam doświadczenie w tego typu realizacjach, mogę oszacować zgrubnie jaki stan zastanę. Dokładne zapotrzebowanie podam gdy dostane szczegółowe dane, natomiast już teraz mogę podać co będzie potrzebne i ile to będzie kosztować. Do tej pory w sporadycznych przypadkach moje przewidywania były niedoszacowane jeśli chodzi o zasoby.
+- A ilu projektów pan nie wykonał?
+- Nie ma takich. Wszystko to tylko kwestia zasobów.
+Ishikawa miał wrażenie że rozmawia z szefem, dla niego też liczyły się tylko zasoby. I każdy projekt był tak naprawdę sumą zysków i strat. Jak przy zaparzaniu kawy: Ile ziarenek trzeba zmielić, i ile wody zagotować aby uzyskać napar.
+- Więc słucham, oceńmy czy jesteśmy przygotowani na pana ceny.
+- Dokładne wartości podam gdy dostane komplet danych, na ten moment szacuje że jeśli chodzi o pieniądze będzie to koszt między pół a półtora miliona.
+Kierownik kiwnął głową, sygnalizując że jest na to przygotowany.
+- Dodatkowo potrzebuje dostęp do klastra obliczeniowego o wymaganej mocy, całkowicie wyczyszczonego wgram na niego swoje oprogramowanie, poza siecią pana firmy wyizolowanego od świata. Należy też zrekrutować na dwie do trzech dób między piętnaście a dwadzieścia pięć osób. Wszystkie w wieku dwadzieścia dwa do dwadzieścia pięć lat, bez nałogów. Mogę się tym sam zająć lub mogą państwo ich zapewnić.
+- Ludzi? - O tym nic nie było w dokumentach, sprawa zaczynała być podejrzana. - Co ma pan na myśli?
+- Będą oni uzupełnieniem klastrów obliczeniowych, potrzebna mi załoga do pracy.
+- Chodzi panu o programistów? Nie za młodzi?
+- Nie, potrzebuje ludzi. Ich kwalifikacje oraz wiedza są całkowicie bez znaczenia. Muszą mieć tylko implant sieciowy, ale obecnie chyba nie ma w naszym społeczeństwie kogoś kto go nie ma?
+- Muszę przyznać że jest to dosyć zaskakujące...
+- Wszyscy to mówią. - Uśmiecha się. - Bez obaw mam doświadczenie.
+- Nie wątpię, natomiast stawia to pod znakiem zapytania umowy dotyczące poufności informacji. Nie chcielibyśmy aby nasz produkt był upubliczniony przez jakiś młokosów...
+- Nie ma takiego zagrożenia, na koniec nikt nic poza mną nie będzie pamiętał. Dlatego też będą potrzebne środki anestezjologiczne, dokładną listę mogę przesłać, oraz pompy infuzyjne. Dodatkowo kilka opakowań glukozy, soli fizjologicznej i innych medykamentów. Bez obaw nic nielegalnego.
+- Nie wiem co powiedzieć...
+- Nie szkodzi, ma pan czas dzisiaj dopiero środa. Na wykonanie zadania potrzebuje około dwóch do trzech dób. Więc najpóźniej musimy wystartować w piątek późną nocą. Chociaż wolałbym wcześniej.
+- No dobrze, załóżmy że się zgodzimy. Czy coś jeszcze?
+- Właściwie to nie. Chociaż z doświadczenia wiem że firmy wolą nie być łączone z moją działalnością... Sugeruje więc zdobyć cztery do pięciu ciężarówek i jakieś miejsce gdzie można to wszystko przewieźć i podłączyć do wymaganego zasilania. Z doświadczenia mogę polecić postoje dla ciężarówek przy autostradach, takie dla dalekich tranzytów. Australia świetnie się sprawdza, pod warunkiem że generatory prądu zabierze się z sobą.
+- Myślę że wszystko możemy zorganizować, najpóźniej na piątek rano. Jednak ludzi proszę zatrudnić w swoim zakresie. Proszę wskazać miejsce gdzie mamy wszystko przewieźć, jednakże to musi być Japonia. Nie chcemy aby projekt wychodził poza moją jednostkę administracyjną.
+- Rozumiem. W takim razie proszę przesłać mi dane, zanim wsiądzie pan do samolotu powrotnego doprecyzuje wymagania co do mocy obliczeniowej oraz pozostałych aspektów.
+- Nie będzie potrzeby nic przesyłać, proszę. - Kierownik wyciąga z kieszeni niewielki moduł pamięci przenośnej. - Wszystkie informacje są na tym nośniku.
+- Znakomicie, zrzuty świadomości inżynierów pracujących przy projekcie też tam znajdę?
+- Oczywiście.
+- Proszę w takim razie zamówić jeszcze jedną kawę, a ja się zajmę pracą. Myślę że za dziesięć minut wszystko będzie gotowe.
+
+* * *
+
+Na wskazany parking przyjechałem autem kumpla, mimo że było to odradzane przez zleceniodawce. Słońce jeszcze wisiało nad horyzontem, ale nie zostało już dużo czasu do zachodu. Na pięciu miejscach dla ciężarówek stały zaparkowane wielkie naczepy, kawałek dalej widziałem dwa busy i kilka aut. Widać nie tylko ja zdecydowałem się na transport indywidualny. Dopiłem napój o smaku czerwonych pomarańczy i wysiadłem ruszając w kierunku grupy ludzi kłębiącej się nieopodal.
+- Czołem - przywitałem się, mimo że nie znałem nikogo kilkoro z ludzi odpowiedziało z uśmiechem - gdzie znajdę mistrza tego spektaklu?
+- Tam - chłopak z pomarańczowymi włosami wskazał kierunek - przy tej zielonej naczepie.
+- Dzięki.
+Między rozstawionymi pojazdami leżały wiązki grubych kabli, całość była tak rozplanowana że dopóki nie podeszło się od strony lasu nic nie było widać. Postronni przejeżdżający drogą ludzie nie powinni nic dostrzec, przynajmniej dopóki nie wpadną na pomysł aby się zatrzymać. Chociaż biorąc pod uwagę że ostatni samochód widziałem jakieś pół godziny temu, szansa na to była minimalna.
+- Cześć Shigeru - John stał tuż przy schodkach, oderwał się od rozmowy z innym młodzieńcem - Cieszę się że udało ci się dojechać.
+- Straszne odludzie, trochę się zgubiłem ale koniec końców udało mi się.
+- Doskonale, powoli musimy zaczynać. Widzisz tamtą żółtą naczepę? To twoje miejsce, w środku jest urocza panienka która się tobą zaopiekuje.
+- Jasne, rozumiem że wszystko idzie zgodnie z planem?
+- Gładko i bez problemów, za trzydzieści minut zaczynamy.
+Udałem się do wskazanego trailera i nie widząc nikogo w pobliżu wszedłem po schodkach do środka. Wnętrze było urządzone dosyć ascetycznie, w pierwszej chwili przychodziły do głowy filmy grozy kategorii B. Mniej więcej co półtora metra stało łóżko polowe na którym ktoś leżał. Przy każdym stanowisku stał wieszak na którym wisiały kroplówki. W środkowej części do ram tworzących ścianę przytwierdzony był rack z końcówkami przyłączy do implantów. Trochę dziwne biorąc pod uwagę że większość miała pewnie możliwość połączenia radiowego z siecią, cóż nie ma sensu zadawać teraz pytań. Podwieszone pod sufitem ledy zalewały wszystko ciepłym, niezbyt intensywnym światłem. Całości wyposażenia dopełniało kilka buczących leniwie klimatyzatorów. Z tego co się zdążyłem zorientować większość ekipy już była w stanie letargu. Niska lekko pyzata dziewczyna skończyła coś ustawiać na kroplówce po czym podeszła do mnie.
+- Cześć, Aiko.
+- Miło mi, Shigeru.
+- Będę się tobą opiekować, wybierz sobie łóżeczko. - Uśmiechnęła się zataczając ręką dookoła w zapraszającym geście. - Wolisz miejsce z widokiem na plandekę czy na kable?
+- Kable, jak przystało na luksusowy kurort. Nuta technologii w stylu retro.
+- Mam nadzieje że nie boisz się igieł? - Szczebiotała prowadząc mnie do kozetki.
+- Masz na myśli kroplówki?
+- Tak, no i te dwanaście innych wbijanych w mózg.
+- Eee? Jak wbijanych w mózg?
+- No wiesz wiercimy takie tyci dziurki w czaszce, a póżniej takim małym młoteczkiem... - Odwróciła się pokazując język.
+- Aaa takie... Nie ma problemu, ostatnim razem zamiast igieł używali dwunastocalowych zardzewiałych gwoździ. Do tej pory mi w głowie dzwoni.
+- Żartowniś widzę mi się trafił, zaraz zobaczymy czy nie zbledniesz jak będę ci się w żyłę wbijała. Faceci wtedy nagle potulnieją.
+- Postaram się nie zawieść twoich oczekiwań.
+Całość przygotowań poszła zaskakująco sprawnie, nie minęła minuta gdy wszystkie rurki były na miejscach. Po chwili Aiko wróciła z kablem ciągnącym się z migającego racka, faktycznie gniazdo na końcu przypominało igłę.
+- A nie mówiłam! - Zaśmiała się widząc moje spojrzenie. - Teraz wbijemy igłę w mózg!
+- A młoteczek i wiertarka?
+- Lubię cię więc będę delikatna... Patrz w sufit, nie chciałabym przez przypadek tego wsadzić w ucho!
+Pochyliła się nade mną i namacała dłonią miejsce tuż za małżowiną. Nastąpiło ciche kliknięcie, po chwili przed oczyma pojawił się mały panel. Wchodziłem do sieci. Kilka standardowych akcji do wykonania, zgoda na to i na tamto. "Rozpocznij procedurę" - ostatni przycisk który kliknąłem w myślach, później... później był już poniedziałek.
+Ocknąłem się lekko skołowany, suchość w ustach szum w głowie. Czułem się jak na potężnym kacu. Rozejrzałem się dookoła, część łóżek była już pusta. Na dwóch jeszcze ktoś jeszcze spał, na kilku innych siedzieli skazańcy w stanie podobnym do mojego.
+- Ocho, obudził się mój ulubieniec! - W moim kierunku szła Aiko ze szklanką jakiegoś płynu. - Poszalało się w weekend i pić się pewnie chce!
+- Czuje się jakby mnie czołg przejechał. - Wychrypiałem, przyjmując z wdzięcznością naczynie.
+Piłem powoli słodkawy napój, patrząc na dziewczynę która go przyniosła. W końcu udało mi się wszystko w siebie wlać, odetchnąłem z ulgą.
+- Co teraz? Jakieś badanie na koniec?
+- Ocho! Figle mu jeszcze w głowie, chciałbyś abym cię przebadała?
+- Eee - trochę zbity z tropu rozejrzałem się dookoła nieprzytomnym wzrokiem.
+- Tak przy wszystkich? Łobuz z ciebie kochanieńki, poleż sobie jeszcze chwilę bo mi tu zemdlejesz z tej ekscytacji. Niestety program naszej imprezy nie przewiduje żadnych badań, chociaż zawsze chciałam przeprowadzić rektoskopię...
+- Nie wiem co to, ale jeśli są w tym igły to rezygnuje. - Odparłem kładąc głowę na poduszce.
+Chyba zdrzemnąłem się bo gdy znowu otworzyłem oczy naczepa była pusta. Wstałem ostrożnie, wszystko było ok. Byłem tylko potwornie zmęczony, przy czym "potwornie" należy traktować dosłownie.
+Przed naczepą stał John pijąc kawę z plastikowego kubka. Wpatrywał się w rozpływającą się mgłe. Dookoła chodziło bez celu kilku osób, busy zniknęły. Chyba znowu byłem jednym z ostatnich.
+- Jak tam się młody czujesz? - Zapytał John.
+- Wydymany. Ledwo oczy mogę otworzyć.
+- Nie dziwię się, w końcu ciężko pracowałeś przez ostatnie kilkadziesiąt godzin. Bez obaw przytniesz komara, opędzlujesz Ramen i będziesz jak nowo narodzony.
+- Mam nadzieje, wszystko się udało?
+- Uhum. - Mruknął popijając kawę. - Uwinęliśmy się godzinę szybciej niż zakładałem. W którym kierunku jedziesz?
+- Do Itoigawy, praktycznie nad same wybrzeże.
+- Mogę się z tobą zabrać?
+- Czemu nie, chociaż nie wiem czy będzie ze mnie dobry kompan w tym stanie.
+- Nie szkodzi, i tak najbliższą taksówkę miałbym za godzinę. Nie uśmiecha mi się zbytnio stać na parkingu w środku lasu samotnie.
+
+* * *
+
+Autopilot sunął pewnie po ulicy kierując się sobie tylko znanymi wytycznymi. Siedzieliśmy w milczeniu przez ostatnie piętnaście minut, w końcu jednak wygrała moja ciekawość.
+- John, co my właściwie tam robiliśmy?
+- Pisaliśmy oprogramowanie, właściwie to je kończyliśmy.
+- Jaja sobie robisz?
+- Nie dlaczego?
+- Nie jestem programistą, zresztą reszta również na takich nie wyglądała.
+- Wystarczy że ja się na tym znam, wy po prostu robiliście to co wam kazałem.
+- Coś jak orkiestra i dyrygent? - Palnąłem zanim pomyślałem że przecież muzycy wiedzą o co chodzi w swojej robocie.
+- Poniekąd, twoje porównanie nienajgorzej oddaje naszą robotę.
+- Jak bardzo to było nielegalne?
+- Ciężko powiedzieć. Technicznie rzecz biorąc nic z tego co robiliśmy nie było niezgodne z prawem. Natomiast forma realizacji może budzić uzasadnione podejrzenia. Martwi cię to?
+- Teraz już nie, ale przyznaje że gdy kładłem się na kozetce zastanawiałem się czy się jeszcze obudzę.
+- Haha, z obydwoma nerkami?
+- Kurde, o tym nie pomyślałem. A co mam powiedzieć jak przyjdzie do mnie policja z pytaniami?
+- Prawdę.
+- Czyli konkretnie co?
+- To co wiesz, odpowiadasz szczerze na pytania i niczym się nie przejmujesz. - Odpowiadając nie sprawiał wrażenia zaniepokojonego.
+- Za dużo odemnie to się nie dowiedzą.
+- Za bardzo się przejmujesz, jedyna instytucja która może się do ciebie odezwać do urząd skarbowy z pytaniem skąd masz te półtora tysiąca. Chyba że planujesz od tego zapłacić podatek.
+- W życiu! Powiem że znalazłem w parku.
+Kolejne kilka minut trawiłem co mi powiedział, ciągle jednak coś mnie dręczyło:
+- Kim ty właściwie John jesteś?
+- Co masz na myśli?
+- Nigdy nie słyszałem o takiej formie programowania. Dlaczego nie robiliśmy tego w biurze? Przecież taka korporacja musi mieć dużo programistów...
+- Skąd przypuszczenie że to korporacja?
+- A kogo byłoby stać aby postawić cały ten sprzęt?
+- Yakuzę? Rząd? - Uśmiechnął się rozpierając się w fotelu.
+- Teraz zaczynam się naprawdę stresować... - Odparłem zgodnie z prawdą.
+- Żartuje. Masz rację to korporacja, duża i wpływowa, jak zapewne się domyślasz nie mogę zdradzić jej nazwy. Specjalizuje się w kończeniu po innych.
+- Gdzie tu logika? Co potrafisz ty czego nie potrafią oni?
+- Programować.
+- Nie próbujesz mi wmówić że jesteś lepszy niż cały zespół fachowców?
+- Samemu nie, ale z pomocą takich jak ty... Dlaczego nie?
+- Nie ma takich ludzi, nawet geniusz ma swoje limity.
+- A kto powiedział że jestem człowiekiem? - Znowu uśmiecha się patrząc na mnie. - Może jestem tylko duchem zamkniętym w ciele człowieka?
