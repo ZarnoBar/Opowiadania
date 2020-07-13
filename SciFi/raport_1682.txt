@@ -1,0 +1,59 @@
+
+*"Raport 1682" by Bartłomiej Żarnowski CC BY-SA*
+
+*Wrocław 2020*
+
+#Raport 1682
+
+Jim szedł pustym korytarzem, po obu stronach w równych odstępach znajdowały się drzwi. Niektóre miały tabliczki z opisami inne nie. Wszystkie za to posiadały zamek otwierany przez kartę identyfikacyjną pracownika. Zresztą aby wejść do tego korytarza również trzeba było mieć odpowiednie uprawnienia. Po kilku chwilach doszedł do swojego pokoju, napis oznajmiał "Jim Cart, analityk". Odbił się kartą i wpisał kod, ciche brzęczenie elektromagnesu oznajmiało że może wejść. Biurko zgodnie z polityką bezpieczeństwa było czyste, jedyne rzeczy która na nim się znajdowały to klawaiatura, myszka i monitor. Wszystko inne było w zamkniętych półkach. Zasiadł przy swoim stanowisku pracy i zalogował się do systemu. Dzisiaj będzie musiał zakończyć raport nad którym pracował od kilku dni. Miał niejasne wrażenie że tym razem to coś ważnego, a nie kolejna nudna, nic nie znacząca analiza. Chociaż nie pierwszy raz był w tej kwestii w błędzie. Osoby decyzyjne, przejmowały się chyba znacznie mniej niż on. Przynajmniej takie miał odczucia po tym jak sprawy które zaprzątały go tygodniami w ich oczach były błache. Nie ważne, zrobi swoje i zamyka ten temat na dobre. Odtworzył po raz nie wiadomo który nagranie, porównał z transkrypcją i zaczął formować wnioski końcowe. Tym razem udało mu się zawrzeć w nich to co miał na myśli, w sposób zwięzły, a zarazem bez niedomówień. Załączył wszystkie potrzebne pliki i nacisnął przycisk "Generuj i dostarcz". Resztę zrobi zautomatyzowany system. Można napić się kawy i czekać na informację o poprawkach albo kolejne zadanie. Byleby do obiadu.
+
+* * *
+
+Spotkanie związane z projektem A-16 odbywało się jak zawsze w niezbyt dużej ale dobrze wyposażonej sali. Dzisiaj nie było rzutnika ani umiarkowanie interesujących slajdów. Poza zwykłym gronem dwóch generałów i ministra, zaproszono również Jima. Był to pierwszy raz kiedy mu się to przytrafiło, chociaż z różnych rozmów z innymi pracownikami wiedział że to nic niezwykłego. Po prostu do tej pory chyba nie było niedomówień, albo jego praca była mało interesująca dla innych. Z zamyślenia wyrwały go słowa kierowane do niego:
+- Jim, muszę przyznać że czytając twój raport mam sprzeczne uczucia. - Zaczął minister obrony. - Możesz w prostych słowach powiedzieć co twoim zdaniem powinniśmy zrobić?
+- Oczywiście. - Zaczął niepewnie, nie spodziewał się że ktoś będzie pytał go o to co robić. - W świetle analizy dostarczonych mi informacji, moją rekomendacją jest zawieszenie i ponowna rewizja projektu A-16.
+- Czy nie zaznaczył pan że, cytuje: "Osiągnięte efekty przekraczają pierwotne założenia projektu"? - Do rozmowy włączył się jeden z generałów.
+- Tak, to prawda. - Zgodził się Jim. - Jednakże w dalszych akapitach podkreślam, że osiągnięte efekty po uwzględnieniu poniesionych kosztów, są w mojej ocenie wątpliwe.
+- O jakich kosztach tutaj mówimy? Czy przekraczamy budżet? - Ponownie odezwał się miniter.
+- Jeśli dobrze rozumiem, to naszemu analitykowi chodzi o ocenę moralną. - Sprostował wojskowy.
+- Tak jest. W mojej ocenie długofalowe koszty wykorzystania projektu A-16 zarówno społeczne jak i finansowe mogą być katastrofalne. W chwili obecnej są to dopiero symptomy aberacji.
+- Nie widzę tego we wnioskach. Czyżbym dostał niekompletny raport? - Zdziwił się urzędnik.
+- Pominęłem bezpośrednie stwierdzenie, myślę że powinni panowie przeczytać załącznik z rozmową jednego z pracowników pionu naukowego. Tak naprawdę jej treść jest kluczowa dla zrozumienia dlaczego wysnułem takie wnioski.
+- Rozumiem Jim. To wszystko, może pan wracać do swoich obowiązków.
+
+* * *
+
+Do domu przyjechał koło dwudziestej trzeciej, pożegnał się z ochroniarzem i wszedł do środka. Bycie ministrem poza niewątpliwą ilością przywilejów ma też swoje bolączki. Jedną z nich jest wracanie do domu w losowych porach, zazwyczaj późnych. Nie inaczej było i tym razem. Carter rzucił teczkę z dokumentami na stolik i nalał sobie burbonu. Dzieci już dawno spały, z żoną zamienił dwa słowa zanim zniknęła w łazience. Mimo że dookoła panowała już głęboka noc, postanowił poświęcić jeszcze trochę czasu na pracę. Słowa młodego analityka, a właściwie sposób w jaki je wypowiadał dały mu do myślenia. Jak przystało na tajne projekty, naukowcy nie mieli zielonego pojęcia że każda ich rozmowa i ruch jest nagrywany. Tak było lepiej, dla dobra społeczeństwa, niekoniecznie dla nadzorowanych pracowników. Odszukał w dokumentach załącznik do raportu i zaczął czytać transkrypcję rozmowy.
+Doktor: Jestem pod wrażeniem Jared, naprawde spektakularny wynik.
+Jared: Mam wrażenie że trafiłem na słabszego przeciwnika.
+Doktor: Kilka razy pod rząd? Chyba w to nie wierzysz!
+Jared: Ok, masz rację. Ostatnio idzie mi nadwyraz dobrze. Może inni się nie przykładają tak jak ja?
+Doktor: Możliwe, na pewno ich managerowie nad tym teraz pracują. A jak sądzisz, co sprawia że tobie idzie tak dobrze?
+Jared: Ta gra jest po prostu świetna, mógłbym w nią grać i grać, bez przerwy!
+Doktor: Właściwie to właśnie to robisz...
+Jared: I to jest super! Nie dosyć że mogę grać bez ograniczeń, to jeszcze o nic innego nie muszę się martwić!
+Doktor: Nie sądzisz że twoja taktyka jest zbyt agresywna? Mam wrażenie, że czasami można było uniknąć pewnych strat.
+Jared: Inni tak robią, przy kofrontacji ze mną przegrywają.
+Doktor: Jak sądzisz, dlaczego?
+Jared: Bo myślą, że będę robić to co oni.
+Doktor: Co masz na myśli?
+Jared: Oni chcą minimalizować straty, ja chcę wygrywać! Tam gdzie oni wybiorą bezpieczniejszy manewr ja nie idę na kompromis.
+Doktor: Nie szkoda ci tych wszystkich których poświęcasz?
+Jared: Przecież oni nie istnieją, po co się przejmować botami?
+Doktor: A co gdybyś miał być generałem? Gdyby to było na prawdę, czym wtedy byś się kierował?
+Jared: Zwycięstwem oczywiście.
+Doktor: Za wszelką cenę?
+Jared: Jasne! Wygra lepszy! Później się odbudowyje zasoby.
+Doktor: Więc żołnierze nawet żywi są zasobami?
+Jared: Niby nie, ale jak się patrzy na całą bitwę to inaczej nie można o nich myśleć.
+Doktor: Trochę mi by było ich żal...
+Jared: Dlatego byś ze mną przegrał, każdy robi swoje. Wygrywa lepszy.
+Carter zamknął teczkę. Sącząc drinka przypomniał sobie zestawienie wyników gry, zwycięstwo było miażdżące chociaż straty również dawały do myślenia. Jared nie miał problemów aby poświcić miasto pełne cywilów aby ochronić bazę wojskową. Wszystko co nie obniżało jego potencjału militarnego było akceptowalną ceną. W efekcie zwycięstwa przychodziły szybko i brutalnie, natomiast stan państwa po takiej kampanii był deliktnie mówiąc ciężki. Odstawił szklankę i wybrał numer do generała Himma.
+- Cześć Carter, co sprawia że dzwonisz o tej porze? - W słuchawce odezwał się znajomy głos.
+- A jak sądzisz? Czytałeś ten załącznik?
+- Do raportu 1682? - Upewnił się rozmówca.
+- Tak, co o tym myślisz?
+- No wnioski są chyba oczywiste?
+- Wolałem się upewnić, do jutra.
+- Trzymaj się.
+Odłożył telefon na stolik, po czym ruszył pod prysznic. Jutro będzie ciężka przeprawa na radzie ministrów.
